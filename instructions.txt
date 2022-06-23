@@ -13,7 +13,7 @@
 
 //6. Set middleware
 
-//7. Create gitignore file
+//7. Create gitignore file, add .env file to gitignore
 
 //8. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
@@ -23,7 +23,7 @@
 
 // heroku login
 // heroku create simple-rap-api
-// echo "web: node server.js" > Procfile
+// echo "web: node server.js" > Profile
 // git add . 
 // git commit -m "changes"
 // git push heroku main
