@@ -23,7 +23,7 @@
 
 // heroku login
 // heroku create simple-rap-api
-// echo "web: node server.js" > Profile
+// echo "web: node server.js" > Procfile
 // git add . 
 // git commit -m "changes"
 // git push heroku main
