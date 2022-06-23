@@ -60,4 +60,5 @@ Thumbs.db
 
 node_modules
 .gitignore
+.env
 instructions.txt
