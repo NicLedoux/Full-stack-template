@@ -5,6 +5,7 @@ netlify.toml
 
 #Local GitIgnore File
 .gitignore
+.env
 #not sure
 .DS_Store
 *.DS_Store
@@ -59,6 +60,6 @@ Thumbs.db
 ######################
 
 node_modules
-.gitignore
-.env
+*.gitignore
+*.env
 instructions.txt
